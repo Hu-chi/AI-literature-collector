@@ -1,6 +1,8 @@
 # Introduction 
 
-I make a tool for searching literature about some topic in my area.
+I make a tool for searching literature about some topic in my area. The search results are organized into notions to form a knowledge base.
+
+I I have collected the titles and abstracts of the following conference papers for quick offline retrieval.
 
 Common NLP Conferences:
 
@@ -8,13 +10,28 @@ Common NLP Conferences:
 * EMNLP: https://aclanthology.org/venues/emnlp/
 * NAACL: https://aclanthology.org/venues/naacl/
 * COLING: https://aclanthology.org/venues/coling/
+* ...
 
 Common AI Conferences:
 
 * IJCAI: https://www.ijcai.org/past_proceedings
 * AAAI: https://aaai.org/Conferences/AAAI/aaai.php
-* ....
+* Neurips: https://nips.cc/
+* ICML: https://icml.cc/
+* ICLR: https://iclr.cc/ (TODO)
+* ...
 
+Common CV Conferences:
+
+* ECCV: https://www.ecva.net/papers.php (TODO)
+* ICCV: https://openaccess.thecvf.com/menu
+* CVPR: https://openaccess.thecvf.com/menu
+* ...
+
+Common Speech Conferences:
+* ICASSP: https://www.2021.ieeeicassp.org/2021.ieeeicassp.org/Papers/AcceptedPapers.html
+* INTERSPEECH: https://www.isca-speech.org/archive/
+* ...
 
 
 I organized the collected papers into the following format and saved them in a `year*.json` format file
