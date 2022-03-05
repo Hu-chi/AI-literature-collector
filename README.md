@@ -45,3 +45,14 @@ I organized the collected papers into the following format and saved them in a `
 ```
 
 If the abstract is not collected, it will be stored as a null value.
+
+
+
+
+
+## Search
+
+Use search.py to find the papers your need.
+
+An example for finding NER papers is in the function main, change it as you want.
+
